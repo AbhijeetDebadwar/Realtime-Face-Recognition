@@ -1,0 +1,2 @@
+# Realtime-Face-Recognition
+This is project on realtime face recognition. In this project I made use of OpenCV library in python and used the  "LBPHFaceRecognizer"  classifier model provided in the OpenCV library. I stored the training images for the model on my PC in the D:/testimages folder , which consist of two subfolders 0 and 1. folder  0 consist of negative samples and folder 1 consist of positive images(my own). So if you want to use this code for your purpose provide the directories name accordingly.
